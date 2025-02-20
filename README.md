@@ -159,7 +159,7 @@ To ensure your node runs automatically:
 ---
 
 ## **🙋 Need Help?**
-If you have any issues, feel free to **open an issue** or reach out to the **@Heimdall_bull**on X! 🐕✨  
+If you have any issues, feel free to **open an issue** or reach out to the **@Heimdall_bull** on X! 🐕✨  
 
 ---
 🚀 **Happy Mining & Supporting the Dogecoin Network!** 🐶
