@@ -104,13 +104,14 @@ To allow your Dogecoin node to communicate properly with the network, follow the
    ```
    dogecoin.conf
    ```
-3. Open `dogecoin.conf` with **Notepad** (or a text editor) and paste the following:
+3. **Copy & paste** the following configuration (modify username/password/IP)(added txindex incase you want to do other developments or indexing:
    ```ini
    rpcuser=your_username
    rpcpassword=your_password
    rpcallowip=127.0.0.1
    maxconnections=50
    rpcport=22555
+   txindex=1
    server=1
    ```
 4. **Save and close** the file.
